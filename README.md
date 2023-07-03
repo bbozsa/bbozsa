@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 I'm from Canada, living in Calgary and currently working at [Nureva](https://nureva.com/)  and Benjamin Bozsa Software Consulting. 
 
-You can find me on  [![LinkedIn][3.2]][3]
 <!--
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
