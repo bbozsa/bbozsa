@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/bbozsa/bbozsa/main/readme_header.png "Header")](https://benbozsa.ca/)
 
-I'm from Canada, living in Calgary and currently working at [Nureva](https://nureva.com/)  and Benjamin Bozsa Software Consulting. 
+I'm from Canada, living in Calgary and currently working at [Nureva](https://nureva.com/)  and [Benjamin Bozsa Software Consulting](https://benbozsa.ca/). 
 
 <!--
 ## 🔧 Technologies & Tools
