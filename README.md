@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/bbozsa/bbozsa/main/wave.gif" width="30px" height="30px" />
+-->
 
 [![Header](https://raw.githubusercontent.com/bbozsa/bbozsa/main/readme_header.png "Header")](https://benbozsa.ca/)
 
-I'm from Canada, living in Calgary and currently working at [Nureva](https://nureva.com/)  and [Benjamin Bozsa Software Consulting](https://benbozsa.ca/). 
+I'm from Canada, living in Calgary and currently working at [Nureva](https://nureva.com/) and [Benjamin Bozsa Software Consulting](https://benbozsa.ca/). 
 
 <!--
 ## 🔧 Technologies & Tools
@@ -34,10 +34,11 @@ I'm from Canada, living in Calgary and currently working at [Nureva](https://nur
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
--->
+
 ## &#x270d; Portfolio
 
 You can find my website at [benbozsa.ca](https://benbozsa.ca/) 
+-->
 
 ## &#x1f4c8; GitHub
 
