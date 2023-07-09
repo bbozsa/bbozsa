@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # Hello, folks! <img src="https://raw.githubusercontent.com/bbozsa/bbozsa/main/wave.gif" width="30px" height="30px" />
 -->
 
-[![Header](https://raw.githubusercontent.com/bbozsa/bbozsa/main/readme_header.png "Header")](https://benbozsa.ca/)
+[![Header](https://raw.githubusercontent.com/bbozsa/bbozsa/main/banner.png "Header")](https://benbozsa.ca/)
 
 I'm currently working at [Nureva](https://nureva.com/) and [Benjamin Bozsa Software Consulting](https://benbozsa.ca/). 
 
