@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 [![Header](https://raw.githubusercontent.com/bbozsa/bbozsa/main/banner.png "Header")](https://benbozsa.ca/)
 
-I'm currently working at [Nureva](https://nureva.com/) and [Benjamin Bozsa Software Consulting](https://benbozsa.ca/). 
+I'm currently working at [Nureva](https://www.nureva.com/) and [Benjamin Bozsa Software Consulting](https://benbozsa.ca/). 
 
 <!--
 ## 🔧 Technologies & Tools
